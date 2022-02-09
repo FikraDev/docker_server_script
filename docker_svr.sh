@@ -43,7 +43,7 @@ cd ~
 
 sudo apt update
 
-echo "Docker Server Setup Complete!!"
+echo "Docker Server Setup Complete!"
 
 
 
